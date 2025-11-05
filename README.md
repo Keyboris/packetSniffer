@@ -1,1 +1,1 @@
-# packetSniffer
+npcap is required in developer mode

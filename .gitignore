@@ -1,0 +1,17 @@
+# CLion specific
+.idea/
+
+# CMake build directory
+cmake-build-debug/
+cmake-build-release/
+*/cmake-build-*/
+
+# Compiled files
+*.o
+*.a
+*.so
+*.dll
+*.exe
+*.out
+
+npcap-sdk-1.15/
